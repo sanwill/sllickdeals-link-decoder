@@ -1,4 +1,4 @@
-# Sllickdeals Link Decoder
+# Slickdeals Link Decoder
  
 ## I am a fan of [slickdeals](https://slickdeals.net/)
 I could spend sometime to look for the good deals posted in slickdeals looking for some good deals.
@@ -15,7 +15,7 @@ All the URL have one thing in common, the actual URL of the online store would s
 Since now I know the pattern, it is easy to write simple script with awk to cut the URL and get the actual online store URL. 
 
 ## Workaround
-See the [script](https://github.com/sanwill/sllickdeals-link-decoder/blob/main/tool/slickdeals_ldcr.sh)
+See the [script](https://github.com/sanwill/sllickdeals-link-decoder/blob/main/tool/slickdeals_ldcr.sh).
 
 Please note, currently the script only decodes certain ASCII special characters like ```"/", ":", "?", "="```.
 
@@ -25,4 +25,4 @@ $ slickdeals_ldcr.sh "https://goto.target.com/c/10451/360518/2092?subid1=9855a65
 Link:
 https://www.target.com/p/logitech-k350-wireless-ergonomic-keyboard-black/-/A-82675608
 ```
-Next, I can place the script in your most convenient location, for example: ```/usr/local/bin```
+Next, I can place the script in your most convenient location, for example: ```/usr/local/bin```.
