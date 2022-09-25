@@ -25,4 +25,4 @@ $ slickdeals_ldcr.sh "https://goto.target.com/c/10451/360518/2092?subid1=9855a65
 Link:
 https://www.target.com/p/logitech-k350-wireless-ergonomic-keyboard-black/-/A-82675608
 ```
-Next, I can place the script in your most convenient location, for example: ```/usr/local/bin```.
+Next, I can place the script in any convenient location, for example: ```/usr/local/bin```.
